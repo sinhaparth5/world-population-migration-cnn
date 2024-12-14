@@ -18,8 +18,6 @@ public:
 
 private:
     std::string filename;
-    double min_year, max_year;
+    int min_year, max_year;
     double min_migration, max_migration;
 };
-
-
